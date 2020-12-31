@@ -1,5 +1,5 @@
-# ey-json-app
-Coding challenge for Ernst and Young
+# json-combine-app
+JSON coding challenge
 
 # Directions:
 
